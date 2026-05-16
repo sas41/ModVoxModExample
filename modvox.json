@@ -6,6 +6,7 @@
   "readme": "README.md",
   "changelog": "CHANGELOG.md",
   "images": "images",
+  "game_id": "16f4f1d1-dde3-4ca7-9a84-e91dd2c2d9b6",
   "tags": ["client_side"],
   "credits": {}
 }
