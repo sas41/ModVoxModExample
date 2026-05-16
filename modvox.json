@@ -1,0 +1,11 @@
+{
+  "verify": "",
+  "name": "Example Mod",
+  "description": "Example Mod description.",
+  "default_ref": "main",
+  "readme": "README.md",
+  "changelog": "CHANGELOG.md",
+  "images": "images",
+  "tags": ["client_side"],
+  "credits": {}
+}
